@@ -1,0 +1,17 @@
+jupyterlab
+notebook
+numpy
+pandas
+geopandas
+shapely
+requests
+matplotlib
+seaborn
+plotly
+scikit-learn
+kmapper
+scipy
+statsmodels
+networkx
+nbformat
+
