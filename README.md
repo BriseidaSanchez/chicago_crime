@@ -20,9 +20,7 @@ The core analysis is contained in the notebooks and the generated outputs are in
 .
 ├── data/                # Local raw/input data; large files are ignored by Git
 ├── notebooks/           # Analysis notebooks
-├── outputs/
-│   ├── artifacts/       # Derived analysis files such as matrices and CSV summaries
-│   └── figures/         # Generated visualizations and Mapper outputs
+├── outputs/             # Generated visualizations and Mapper outputs & Derived analysis files such as      matrices and CSV summaries
 ├── report/              # Final report and presentation PDFs
 ├── README.md
 ├── requirements.txt
@@ -51,9 +49,7 @@ The crime data can be downloaded from the City of Chicago Data Portal, and ACS v
 
 Key generated artifacts are stored in:
 
-- `outputs/figures/full/`
-- `outputs/figures/focused_26_communities/`
-- `outputs/artifacts/`
+- `outputs/`
 - `report/TDA_FinalReport_fv.pdf`
 - `report/TDA_FinalPresentation_fv.pdf`
 
